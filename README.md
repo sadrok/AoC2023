@@ -1,4 +1,4 @@
-# Sadrok's Attempt at Advent of Code 2023 night 1
+# Sadrok's Attempt at Advent of Code 2023
 
 ## Programming Language
 
